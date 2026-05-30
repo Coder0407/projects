@@ -9,3 +9,7 @@ Link to the repository of the project: https://github.com/iris7-git/ProDex-Intra
 ## LoRa-based SOS communication system
 A portable emergency communication prototype that uses ESP32, LoRa (SX1278), and GPS to transmit SOS alerts with location data over long distances and display them through a Wi-Fi-enabled web interface.
 [Link](https://github.com/asmitak07/LoRa-based-SOS-communication-system-group-4-)
+
+## Fatigue Guard
+Fatigue-Guard is a wearable electromyography sensor designed to detect muscle fatigue in real-time during strength training and athletic activities. Using dry electrodes and time-domain signal processing, it alerts users the moment fatigue approaches dangerous levels, preventing form breakdown and injury. Affordable, accessible, thoroughly field-tested, and purpose-built for serious athletes everywhere.
+[Link](https://github.com/Aditya01902/Fatigue-Guard)
