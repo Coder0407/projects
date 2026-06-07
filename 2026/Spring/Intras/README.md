@@ -15,6 +15,5 @@ Fatigue-Guard is a wearable electromyography sensor designed to detect muscle fa
 [Link to the Repository](https://github.com/Aditya01902/Fatigue-Guard)
 
 ## WildLife HV Wire Detector
-This project provides a portable solution for detecting hidden, illegal electrified wires in forest environments. Using an electrometer-based sensor circuit, the device identifies the electric fields surrounding high-voltage lines (11kV) from a safe distance. It is designed to assist forest personnel in locating hazardous energized wires that pose a lethal threat to wildlife, without requiring physical contact.
-More details in the documentation. Link given below-
-[Link to Documentation] https://drive.google.com/drive/folders/1X8M6BsL5G8N2cxB3aRUOQO_7uECxFMiu?usp=sharing
+This project provides a portable solution for detecting hidden, illegal electrified wires in forest environments. Using an electrometer-based sensor circuit, the device identifies the electric fields surrounding high-voltage lines (11kV) from a safe distance. It is designed to assist forest personnel in locating hazardous energized wires that pose a lethal threat to wildlife, without requiring physical contact.  
+[Link to the Repository](https://drive.google.com/drive/folders/1X8M6BsL5G8N2cxB3aRUOQO_7uECxFMiu?usp=sharing)
